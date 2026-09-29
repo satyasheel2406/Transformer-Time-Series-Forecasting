@@ -497,7 +497,7 @@ The experiment therefore focuses not only on implementing a Transformer, but on 
 
 ## 👨‍💻 Author
 
-**Sarthak Patil**
+**Satyasheel Raman**
 
 Computer Science Undergraduate | Machine Learning | AI | Software Development
 
